@@ -12,19 +12,19 @@
 					<p><?php bloginfo('description'); ?></p>
                     <ul id="css3" class="social">
                         <li class="linkedin">
-                            <a href="http://www.linkedin.com/pub/michael-bender/4/515/b70"><strong>LinkedIn</strong></a>
+                            <a target="_blank" href="http://www.linkedin.com/pub/michael-bender/4/515/b70"><strong>LinkedIn</strong></a>
                         </li>
                         <li class="facebook">
-                            <a href="http://www.facebook.com/mbbender"><strong>Facebook</strong></a>
+                            <a target="_blank" href="http://www.facebook.com/mbbender"><strong>Facebook</strong></a>
                         </li>
                         <li class="twitter">
-                            <a href="http://twitter.com/bender_michael"><strong>Twitter</strong></a>
+                            <a target="_blank" href="http://twitter.com/bender_michael"><strong>Twitter</strong></a>
                         </li>
                         <li class="stackoverflow">
-                            <a href="http://stackoverflow.com/users/821870/michael"><strong>StackOverflow</strong></a>
+                            <a target="_blank" href="http://stackoverflow.com/users/821870/michael"><strong>StackOverflow</strong></a>
                         </li>
                         <li class="github">
-                            <a href="https://github.com/michael-bender"><strong>Github</strong></a>
+                            <a target="_blank" href="https://github.com/michael-bender"><strong>Github</strong></a>
                         </li>
 
 
