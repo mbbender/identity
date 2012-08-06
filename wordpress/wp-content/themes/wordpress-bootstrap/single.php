@@ -24,6 +24,9 @@
                                 <li class="googleplus">
                                     <a target="_blank" href="https://plus.google.com/u/0/109350476984468771338/posts/p/pub"><strong>Google+</strong></a>
                                 </li>
+                                <li class="runkeeper">
+                                    <a target="_blank" href="http://runkeeper.com/user/558381988/profile""><strong>RunKeeper</strong></a>
+                                </li>
                                 <li class="stackoverflow">
                                     <a target="_blank" href="http://stackoverflow.com/users/821870/michael"><strong>StackOverflow</strong></a>
                                 </li>
