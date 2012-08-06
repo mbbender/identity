@@ -1,7 +1,44 @@
 <?php get_header(); ?>
 			
 			<div id="content" class="clearfix row-fluid">
-			
+                <?php
+                $blog_hero = of_get_option('blog_hero');
+                if ($blog_hero){
+                    ?>
+                    <div class="clearfix row-fluid">
+                        <div class="hero-unit identity" style="padding: 35px 35px 90px;">
+                            <img src="<?php echo get_template_directory_uri(); ?>/images/identityheaderselfburn.png" id="selfpic"/>
+                            <h1><?php bloginfo('title'); ?></h1>
+
+                            <p><?php bloginfo('description'); ?></p>
+                            <ul id="css3" class="social">
+                                <li class="linkedin">
+                                    <a target="_blank" href="http://www.linkedin.com/pub/michael-bender/4/515/b70"><strong>LinkedIn</strong></a>
+                                </li>
+                                <li class="facebook">
+                                    <a target="_blank" href="http://www.facebook.com/mbbender"><strong>Facebook</strong></a>
+                                </li>
+                                <li class="twitter">
+                                    <a target="_blank" href="http://twitter.com/bender_michael"><strong>Twitter</strong></a>
+                                </li>
+                                <li class="googleplus">
+                                    <a target="_blank" href="https://plus.google.com/u/0/109350476984468771338/posts/p/pub"><strong>Google+</strong></a>
+                                </li>
+                                <li class="stackoverflow">
+                                    <a target="_blank" href="http://stackoverflow.com/users/821870/michael"><strong>StackOverflow</strong></a>
+                                </li>
+                                <li class="github">
+                                    <a target="_blank" href="https://github.com/michael-bender"><strong>Github</strong></a>
+                                </li>
+
+
+                            </ul>
+
+                        </div>
+                    </div>
+                    <?php
+                }
+                ?>
 				<div id="main" class="span8 clearfix" role="main">
 
 					<?php if (have_posts()) : while (have_posts()) : the_post(); ?>

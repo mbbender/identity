@@ -5,7 +5,7 @@ Template Name: Full Width Page
 ?>
 
 <?php get_header(); ?>
-			
+
 			<div id="content" class="clearfix row-fluid">
 			
 				<div id="main" class="span12 clearfix" role="main">

@@ -5,8 +5,8 @@
 				if ($blog_hero){
 			?>
 			<div class="clearfix row-fluid">
-				<div class="hero-unit" style="padding: 35px 35px 90px;">
-				
+				<div class="hero-unit identity" style="padding: 35px 35px 90px;">
+				    <img src="<?php echo get_template_directory_uri(); ?>/images/identityheaderselfburn.png" id="selfpic"/>
 					<h1><?php bloginfo('title'); ?></h1>
 					
 					<p><?php bloginfo('description'); ?></p>
