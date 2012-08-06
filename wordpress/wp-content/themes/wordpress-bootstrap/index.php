@@ -20,6 +20,9 @@
                         <li class="twitter">
                             <a target="_blank" href="http://twitter.com/bender_michael"><strong>Twitter</strong></a>
                         </li>
+                        <li class="googleplus">
+                            <a target="_blank" href="https://plus.google.com/u/0/109350476984468771338/posts/p/pub"><strong>Google+</strong></a>
+                        </li>
                         <li class="stackoverflow">
                             <a target="_blank" href="http://stackoverflow.com/users/821870/michael"><strong>StackOverflow</strong></a>
                         </li>

@@ -622,6 +622,7 @@ li.rss { background-image:url("images/rss.png"); }
 li.twitter { background-image:url("images/twitter.png"); }
 li.stackoverflow { background-image:url("images/stackoverflow.png"); }
 li.github { background-image:url("images/github.png"); }
+li.googleplus { background-image:url("images/googleplus.png"); }
 /* SOCIAL ICONS - CSS3 */
 #css3:hover li { opacity:0.2; }
 
