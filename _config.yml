@@ -54,3 +54,24 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+
+  - icon:	camera-retro
+    url:	https://instagram.com/michaelbenbender/
+    desc:	Check me out on instagram
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	stack-overflow
+    url:	http://stackoverflow.com/users/821870/michael
+    desc:	Help me on stackoverflow
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	linkedin
+    url:	http://www.linkedin.com/pub/michael-bender/4/515/b70
+    desc:	I'm professional on linkedin
+    share_url:
+    share_title:
+    share_link:

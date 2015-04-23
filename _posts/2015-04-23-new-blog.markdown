@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Time for a new blog"
+date:   2015-04-23 11:01
+categories: announcements
+tags:
+image: /assets/article_images/2015-04-23-new-blog/header.jpg
+---
+#Why now?
+
+I came across Jekyll, what feels like 6 years ago when I was first looking
+for a why to sort of meta program light-weight e-commerce sites. As I and
+the project have matured I decided last night around 3:30am that it was time
+to give it a second look.
+
+Turns out my last blog post was March 12th, 2013. I suppose the clunky wordpress
+installation I had was not cutting the mustard. What a great way to dog food (Am I using
+this term right? I keep hearing it so thought I'd try it out.) Jekyll.
+
+Hopefully this tool will help me post more often and ultimately becomes a
+business tool I can use over at [SociableShops](http://sociableshops.com).
